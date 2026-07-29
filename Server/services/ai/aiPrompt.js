@@ -8,7 +8,7 @@ import {
   FIT_TYPES,
   SLEEVE_TYPES,
   TAG_GROUPS,
-} from "../../Shared/index.js";
+} from "../../shared/index.js";
 
 /**
  * Convert an object into a readable prompt section.
