@@ -1,0 +1,107 @@
+// export const BODY_TYPES = [
+//   {
+//     value: "Lean",
+//     title: "Lean",
+//     description: "Slim body frame",
+//   },
+//   {
+//     value: "Athletic",
+//     title: "Athletic",
+//     description: "Muscular and fit",
+//   },
+//   {
+//     value: "Average",
+//     title: "Average",
+//     description: "Balanced body shape",
+//   },
+//   {
+//     value: "Broad",
+//     title: "Broad",
+//     description: "Wider shoulders and build",
+//   },
+// ];
+
+export const BASIC_MEASUREMENT_FIELDS = [
+  {
+    key: "height",
+    label: "Height",
+    icon: "human-male-height",
+    placeholder: "Height (cm)",
+    keyboardType: "numeric",
+    half: true,
+    min: 120,
+    max: 220,
+  },
+  {
+    key: "weight",
+    label: "Weight",
+    icon: "weight-kilogram",
+    placeholder: "Weight (kg)",
+    keyboardType: "numeric",
+    half: true,
+    min: 30,
+    max: 250,
+  },
+  {
+    key: "shoeSize",
+    label: "Shoe Size",
+    icon: "shoe-formal",
+    placeholder: "Shoe Size (UK)",
+    keyboardType: "numeric",
+    min: 3,
+    max: 16,
+  },
+];
+
+export const BODY_MEASUREMENT_FIELDS = [
+  {
+    key: "chest",
+    label: "Chest",
+    icon: "human-male",
+    placeholder: "Chest (cm)",
+    keyboardType: "numeric",
+    half: true,
+    min: 60,
+    max: 170,
+  },
+  {
+    key: "waist",
+    label: "Waist",
+    icon: "tape-measure",
+    placeholder: "Waist (cm)",
+    keyboardType: "numeric",
+    half: true,
+    min: 45,
+    max: 170,
+  },
+  {
+    key: "hips",
+    label: "Hips",
+    icon: "human",
+    placeholder: "Hips (cm)",
+    keyboardType: "numeric",
+    half: true,
+    min: 60,
+    max: 180,
+  },
+  {
+    key: "shoulder",
+    label: "Shoulder",
+    icon: "hanger",
+    placeholder: "Shoulder (cm)",
+    keyboardType: "numeric",
+    half: true,
+    min: 30,
+    max: 70,
+  },
+  {
+    key: "inseam",
+    label: "Inseam",
+    icon: "ruler",
+    placeholder: "Inseam (cm)",
+    keyboardType: "numeric",
+    half: true,
+    min: 45,
+    max: 120,
+  },
+];

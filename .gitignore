@@ -1,0 +1,26 @@
+# Root dependencies
+node_modules/
+
+# Environment files
+.env
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Python (if you ever add it back)
+__pycache__/
+*.pyc
+
+# Build output
+dist/
+build/
