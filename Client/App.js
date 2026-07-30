@@ -25,7 +25,7 @@ function RootNavigator() {
       if (firebaseUser) {
         try {
           const response = await fetch(
-            "http://192.168.29.194:5000/api/auth/login",
+            "https://closet-iq-production.up.railway.app/api/auth/login",
             {
               method: "POST",
               headers: {

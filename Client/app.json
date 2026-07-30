@@ -5,7 +5,7 @@
     "scheme": "closetiq",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/logo-mark.png",
+    "icon": "./assets/logo2.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
@@ -23,12 +23,24 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "permissions": ["CAMERA", "READ_MEDIA_IMAGES", "ACCESS_FINE_LOCATION"],
+      "permissions": [
+        "CAMERA",
+        "READ_MEDIA_IMAGES",
+        "ACCESS_FINE_LOCATION"
+      ],
       "edgeToEdgeEnabled": true
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "plugins": ["expo-web-browser", "@react-native-community/datetimepicker"]
+    "plugins": [
+      "expo-web-browser",
+      "@react-native-community/datetimepicker"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "7f34deac-f018-4a72-8632-a46373574829"
+      }
+    }
   }
 }
