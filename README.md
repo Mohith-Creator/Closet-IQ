@@ -1,6 +1,42 @@
 # 👔 ClosetIQ – AI Powered Smart Wardrobe Assistant
 
 > An intelligent wardrobe management application that helps users organize clothing, build outfits, receive personalized AI-powered outfit recommendations, and plan outfits with ease.
+>
+<p align="center">
+  <img src="assets/banner.png" alt="ClosetIQ Banner" width="100%">
+</p>
+
+<h1 align="center">👔 ClosetIQ</h1>
+
+<p align="center">
+  <b>AI Powered Smart Wardrobe Assistant</b><br>
+  Organize your wardrobe • Build outfits • Get personalized recommendations • Plan your style
+</p>
+
+<p align="center">
+
+![React Native](https://img.shields.io/badge/React%20Native-0.81-blue?style=for-the-badge&logo=react)
+![Expo](https://img.shields.io/badge/Expo-SDK%2054-000000?style=for-the-badge&logo=expo)
+![Node.js](https://img.shields.io/badge/Node.js-Express-339933?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?style=for-the-badge&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-Authentication-FFCA28?style=for-the-badge&logo=firebase)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-Storage-3448C5?style=for-the-badge)
+
+</p>
+
+<p align="center">
+
+<a href="#-features">Features</a> •
+<a href="#-screenshots">Screenshots</a> •
+<a href="#-architecture">Architecture</a> •
+<a href="#-installation">Installation</a> •
+<a href="#-api-endpoints">API</a> •
+<a href="#-demo">Demo</a>
+
+</p>
+
+---
+
 
 ![React Native](https://img.shields.io/badge/React%20Native-0.81-blue)
 ![Expo](https://img.shields.io/badge/Expo-SDK%2054-000000)
