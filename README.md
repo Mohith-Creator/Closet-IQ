@@ -1,9 +1,14 @@
-# 👔 ClosetIQ – AI Powered Smart Wardrobe Assistant
-
-> An intelligent wardrobe management application that helps users organize clothing, build outfits, receive personalized AI-powered outfit recommendations, and plan outfits with ease.
->
+#
 <p align="center">
-  <img src="screenshots/banner.png" alt="ClosetIQ Banner" width="100%">
+  <img src="assets/banner.png" alt="ClosetIQ Banner" width="100%">
+</p>
+
+<p align="center">
+  <strong>AI Powered Smart Wardrobe Assistant</strong>
+</p>
+
+<p align="center">
+Organize your wardrobe • Build outfits • Receive personalized AI recommendations • Plan outfits effortlessly
 </p>
 
 <p align="center">
