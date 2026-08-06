@@ -1,4 +1,11 @@
-#
+# <h1 align="center">
+  <img src="screenshots/logo.png" width="42" alt="ClosetIQ Logo"/>
+  ClosetIQ
+</h1>
+
+<p align="center">
+AI Powered Smart Wardrobe Assistant
+</p>
 <p align="center">
   <img src="screenshots/banner.png" alt="ClosetIQ Banner" width="100%">
 </p>
