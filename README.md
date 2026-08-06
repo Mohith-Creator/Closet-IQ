@@ -1,4 +1,4 @@
-<h1 align="center">ClosetIQ – AI Powered Smart Wardrobe Assistant</h1>
+<h1 align="left">ClosetIQ – AI Powered Smart Wardrobe Assistant</h1>
 
 <p align="center">
   <img src="screenshots/banner.png" alt="ClosetIQ Banner" width="100%">
