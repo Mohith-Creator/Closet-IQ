@@ -6,24 +6,6 @@
   <img src="screenshots/banner.png" alt="ClosetIQ Banner" width="100%">
 </p>
 
-<h1 align="center">👔 ClosetIQ</h1>
-
-<p align="center">
-  <b>AI Powered Smart Wardrobe Assistant</b><br>
-  Organize your wardrobe • Build outfits • Get personalized recommendations • Plan your style
-</p>
-
-<p align="center">
-
-![React Native](https://img.shields.io/badge/React%20Native-0.81-blue?style=for-the-badge&logo=react)
-![Expo](https://img.shields.io/badge/Expo-SDK%2054-000000?style=for-the-badge&logo=expo)
-![Node.js](https://img.shields.io/badge/Node.js-Express-339933?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?style=for-the-badge&logo=mongodb)
-![Firebase](https://img.shields.io/badge/Firebase-Authentication-FFCA28?style=for-the-badge&logo=firebase)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-Storage-3448C5?style=for-the-badge)
-
-</p>
-
 <p align="center">
 
 <a href="#-features">Features</a> •
