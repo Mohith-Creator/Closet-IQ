@@ -1,25 +1,41 @@
-#  <img src="screenshots/logo2.png" width="42" alt="ClosetIQ Logo"/> ClosetIQ – AI Powered Smart Wardrobe Assistant
 <p align="center">
-  <img src="screenshots/banner.png" alt="ClosetIQ Banner" width="100%">
+  <img src="screenshots/logo1.png" width="45" alt="ClosetIQ Logo" />
+  <strong style="font-size:32px;">ClosetIQ – AI Powered Smart Wardrobe Assistant</strong>
 </p>
 
 <p align="center">
-  <strong>AI Powered Smart Wardrobe Assistant</strong>
+  Organize your wardrobe • Build outfits • Receive personalized AI recommendations • Plan your style effortlessly
 </p>
 
-<p align="center">
-Organize your wardrobe • Build outfits • Receive personalized AI recommendations • Plan outfits effortlessly
-</p>
+  <p align="center">
+    <img src="screenshots/banner.png" alt="ClosetIQ Banner" width="100%">
+  </p>
 
-<p align="center">
+  <p align="center">
+    <a href="#-features">✨ Features</a> •
+    <a href="#-screenshots">📱 Screenshots</a> •
+    <a href="#-architecture">🏗 Architecture</a> •
+    <a href="#-installation">🚀 Installation</a> •
+    <a href="#-api-endpoints">🌐 API</a> •
+    <a href="#-demo">🎥 Demo</a>
+  </p>
 
-<a href="#-features">Features</a> •
-<a href="#-screenshots">Screenshots</a> •
-<a href="#-architecture">Architecture</a> •
-<a href="#-installation">Installation</a> •
-<a href="#-api-endpoints">API</a> •
-<a href="#-demo">Demo</a>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+    <img src="https://img.shields.io/badge/React_Native-0.81-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Expo-SDK_54-000020?style=for-the-badge&logo=expo&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-Express-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase-Authentication-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+    <img src="https://img.shields.io/badge/Cloudinary-Image_Storage-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+  </p>
 
+  <p align="center">
+    <img src="https://img.shields.io/github/license/Mohith-Creator/ClosetIQ?style=flat-square" />
+    <img src="https://img.shields.io/github/last-commit/Mohith-Creator/ClosetIQ?style=flat-square" />
+    <img src="https://img.shields.io/github/repo-size/Mohith-Creator/ClosetIQ?style=flat-square" />
+    <img src="https://img.shields.io/github/languages/top/Mohith-Creator/ClosetIQ?style=flat-square" />
+  </p>
 </p>
 
 ---
