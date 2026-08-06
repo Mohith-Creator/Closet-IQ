@@ -1,53 +1,42 @@
-<p align="center">
-  <img src="screenshots/logo1.png" width="45" alt="ClosetIQ Logo" />
-  <strong style="font-size:32px;">ClosetIQ – AI Powered Smart Wardrobe Assistant</strong>
-</p>
+<h1 align="center">ClosetIQ – AI Powered Smart Wardrobe Assistant</h1>
 
 <p align="center">
-  Organize your wardrobe • Build outfits • Receive personalized AI recommendations • Plan your style effortlessly
+  <img src="screenshots/banner.png" alt="ClosetIQ Banner" width="100%">
 </p>
 
-  <p align="center">
-    <img src="screenshots/banner.png" alt="ClosetIQ Banner" width="100%">
-  </p>
-
-  <p align="center">
-    <a href="#-features">✨ Features</a> •
-    <a href="#-screenshots">📱 Screenshots</a> •
-    <a href="#-architecture">🏗 Architecture</a> •
-    <a href="#-installation">🚀 Installation</a> •
-    <a href="#-api-endpoints">🌐 API</a> •
-    <a href="#-demo">🎥 Demo</a>
-  </p>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-    <img src="https://img.shields.io/badge/React_Native-0.81-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Expo-SDK_54-000020?style=for-the-badge&logo=expo&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-Express-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/Firebase-Authentication-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-    <img src="https://img.shields.io/badge/Cloudinary-Image_Storage-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
-  </p>
-
-  <p align="center">
-    <img src="https://img.shields.io/github/license/Mohith-Creator/ClosetIQ?style=flat-square" />
-    <img src="https://img.shields.io/github/last-commit/Mohith-Creator/ClosetIQ?style=flat-square" />
-    <img src="https://img.shields.io/github/repo-size/Mohith-Creator/ClosetIQ?style=flat-square" />
-    <img src="https://img.shields.io/github/languages/top/Mohith-Creator/ClosetIQ?style=flat-square" />
-  </p>
+<p align="center">
+  <strong>Your AI-powered personal wardrobe companion.</strong>
 </p>
 
----
+<p align="center">
+  Organize • Discover • Build • Plan • Repeat
+</p>
 
+<p align="center">
+  👔 Digital Closet &nbsp;|&nbsp;
+  🤖 Smart Recommendations &nbsp;|&nbsp;
+  🎨 Outfit Builder &nbsp;|&nbsp;
+  📅 Planner &nbsp;|&nbsp;
+  ☁️ Cloud Sync
+</p>
 
-![React Native](https://img.shields.io/badge/React%20Native-0.81-blue)
-![Expo](https://img.shields.io/badge/Expo-SDK%2054-000000)
-![Node.js](https://img.shields.io/badge/Node.js-Express-green)
-![MongoDB](https://img.shields.io/badge/MongoDB-Database-success)
-![Firebase](https://img.shields.io/badge/Firebase-Authentication-orange)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-Image%20Storage-blueviolet)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+<p align="center">
+  <a href="#-features">✨ Features</a> •
+  <a href="#-screenshots">📱 Screenshots</a> •
+  <a href="#-architecture">🏗 Architecture</a> •
+  <a href="#-installation">🚀 Installation</a> •
+  <a href="#-api-endpoints">🌐 API</a> •
+  <a href="#-demo">🎥 Demo</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-0.81-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-SDK_54-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-Express-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-Authentication-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cloudinary-Storage-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+</p>
 
 ---
 
