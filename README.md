@@ -1,33 +1,49 @@
-
-
+<h1 align="center">ClosetIQ – AI Powered Smart Wardrobe Assistant </h1>
 <p align="center">
   <img src="screenshots/banner.png" alt="ClosetIQ Banner" width="100%">
 </p>
 
-<p align="center">
-  <strong>Your AI-powered personal wardrobe companion.</strong>
-</p>
 
 <p align="center">
-  Organize • Discover • Build • Plan • Repeat
+  <strong>Digitize your wardrobe. Create better outfits. Dress smarter with AI.</strong>
+  <br><br>
+  Organize your wardrobe • Build outfits • Get personalized AI recommendations • Plan your style effortlessly.
 </p>
 
-<p align="center">
-  👔 Digital Closet &nbsp;|&nbsp;
-  🤖 Smart Recommendations &nbsp;|&nbsp;
-  🎨 Outfit Builder &nbsp;|&nbsp;
-  📅 Planner &nbsp;|&nbsp;
-  ☁️ Cloud Sync
-</p>
+---
+
+<!-- ===================== Quick Navigation ===================== -->
+
+<h3 align="center">📖 Quick Navigation</h3>
 
 <p align="center">
   <a href="#-features">✨ Features</a> •
   <a href="#-screenshots">📱 Screenshots</a> •
-  <a href="#-architecture">🏗 Architecture</a> •
+  <a href="#-architecture">🏗️ Architecture</a> •
   <a href="#-installation">🚀 Installation</a> •
   <a href="#-api-endpoints">🌐 API</a> •
   <a href="#-demo">🎥 Demo</a>
 </p>
+
+---
+
+<!-- ===================== Key Features ===================== -->
+
+<h3 align="center">✨ Key Features</h3>
+
+<p align="center">
+  👔 Digital Closet &nbsp;&nbsp;•&nbsp;&nbsp;
+  🤖 AI Recommendations &nbsp;&nbsp;•&nbsp;&nbsp;
+  🎨 Outfit Builder &nbsp;&nbsp;•&nbsp;&nbsp;
+  📅 Outfit Planner &nbsp;&nbsp;•&nbsp;&nbsp;
+  ☁️ Cloud Storage
+</p>
+
+---
+
+<!-- ===================== Built With ===================== -->
+
+<h3 align="center">🛠️ Built With</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React_Native-0.81-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -38,7 +54,7 @@
   <img src="https://img.shields.io/badge/Cloudinary-Storage-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
 </p>
 
----
+------
 
 # 📑 Table of Contents
 
