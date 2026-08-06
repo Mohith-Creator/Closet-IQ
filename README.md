@@ -3,7 +3,7 @@
 > An intelligent wardrobe management application that helps users organize clothing, build outfits, receive personalized AI-powered outfit recommendations, and plan outfits with ease.
 >
 <p align="center">
-  <img src="assets/banner.png" alt="ClosetIQ Banner" width="100%">
+  <img src="screenshots/banner.png" alt="ClosetIQ Banner" width="100%">
 </p>
 
 <h1 align="center">👔 ClosetIQ</h1>
