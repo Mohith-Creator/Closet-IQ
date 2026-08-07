@@ -210,43 +210,29 @@ ClosetIQ/
 <a id="api-endpoints"></a>
 # 🌐 REST API
 
-## Authentication
-
-| Method | Endpoint |
-|---|---|
-|POST|/api/auth/signup|
-|POST|/api/auth/login|
-|POST|/api/auth/google|
-
-## Users
-
-|Method|Endpoint|
-|---|---|
-|GET|/api/users/profile|
-|PUT|/api/users/profile|
-
-## Closet
-
-|Method|Endpoint|
-|---|---|
-|GET|/api/items|
-|POST|/api/items|
-|PUT|/api/items/:id|
-|DELETE|/api/items/:id|
-
-## Outfits
-
-|Method|Endpoint|
-|---|---|
-|GET|/api/outfits|
-|POST|/api/outfits|
-
-## Planner
-
-|Method|Endpoint|
-|---|---|
-|GET|/api/planner|
-|POST|/api/planner|
+| Module | Method | Endpoint | Description |
+|--------|:------:|----------|-------------|
+| 🔐 Authentication | POST | `/api/auth/signup` | Register a new user |
+|  | POST | `/api/auth/login` | Authenticate user |
+|  | POST | `/api/auth/google` | Google Sign-In |
+| 👤 Users | GET | `/api/users/profile` | Retrieve user profile |
+|  | PUT | `/api/users/profile` | Update user profile |
+| 👔 Closet | GET | `/api/items` | Fetch all wardrobe items |
+|  | POST | `/api/items` | Add a new clothing item |
+|  | GET | `/api/items/:id` | Get a clothing item by ID |
+|  | PUT | `/api/items/:id` | Update a clothing item |
+|  | DELETE | `/api/items/:id` | Remove a clothing item |
+| 🎨 Outfits | GET | `/api/outfits` | Fetch saved outfits |
+|  | POST | `/api/outfits` | Save a new outfit |
+|  | GET | `/api/outfits/:id` | Get outfit details |
+|  | PUT | `/api/outfits/:id` | Update an outfit |
+|  | DELETE | `/api/outfits/:id` | Delete an outfit |
+| 📅 Planner | GET | `/api/planner` | Retrieve planned outfits |
+|  | POST | `/api/planner` | Create a new plan |
+|  | GET | `/api/planner/:id` | Get planner details |
+|  | PUT | `/api/planner/:id` | Update a planner entry |
+|  | DELETE | `/api/planner/:id` | Delete a planner entry |
+| 🤖 AI Recommendations | POST | `/api/recommendation` | Generate AI outfit recommendations |
 
 <a id="database"></a>
 # 🗄️ Database Overview
