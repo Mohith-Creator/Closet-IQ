@@ -168,7 +168,7 @@ ClosetIQ/
 # 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/home.png" width="220"/>
+  <img src="screenshots/home.jpeg" width="220"/>
   <img src="screenshots/closet.png" width="220"/>
   <img src="screenshots/ai.png" width="220"/>
 </p>
