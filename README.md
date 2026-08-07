@@ -12,21 +12,6 @@
 
 ---
 
-<!-- ===================== Quick Navigation ===================== -->
-
-<h3 align="center">📖 Quick Navigation</h3>
-
-<p align="center">
-  <a href="#features">✨ Features</a> •
-  <a href="#architecture">🏗️ Architecture</a> •
-  <a href="#screenshots">📸 Screenshots</a> •
-  <a href="#api-endpoints">🌐 API</a> •
-  <a href="#installation">⚙️ Installation</a> •
-  <a href="#demo">🎥 Demo</a>
-</p>
-
----
-
 <!-- ===================== Key Features ===================== -->
 
 <h3 align="center">✨ Key Features</h3>
@@ -58,29 +43,31 @@
 
 ## 📑 Table of Contents
 
-- [🚀 Overview](#overview)
-- [✨ Features](#features)
-- [🛠 Tech Stack](#tech-stack)
-- [🏗️ Architecture](#architecture)
-- [🧠 Recommendation Engine](#recommendation-engine)
-- [📂 Project Structure](#project-structure)
-- [📸 Screenshots](#screenshots)
-- [🌐 REST API](#api-endpoints)
-- [🗄️ Database Overview](#database)
-- [⚙️ Installation](#installation)
-- [🔐 Environment Variables](#environment-variables)
-- [🎥 Demo](#demo)
-- [🚀 Deployment](#deployment)
-- [🗺️ Roadmap](#roadmap)
-- [🤝 Contributing](#contributing)
-- [📄 License](#license)
-- [👨‍💻 Author](#author)
+- 🚀 [Overview](#overview)
+- ✨ [Features](#features)
+- 🛠️ [Tech Stack](#tech-stack)
+- 🏗️ [Architecture](#architecture)
+  - 🧠 [Recommendation Engine](#recommendation-engine)
+  - 📂 [Project Structure](#project-structure)
+- 📸 [Screenshots](#screenshots)
+- 🌐 [REST API](#api-endpoints)
+  - 🗄️ [Database Overview](#database)
+- ⚙️ [Installation](#installation)
+  - 🔐 [Environment Variables](#environment-variables)
+- 🎥 [Demo](#demo)
+- 🚀 [Deployment](#deployment)
+- 🗺️ [Roadmap](#roadmap)
+- 🤝 [Contributing](#contributing)
+- 📄 [License](#license)
+- 👨‍💻 [Author](#author)
 
 ---
 <a id="overview"></a>
 # 🚀 Overview
 
-ClosetIQ is a full-stack React Native application that digitizes your wardrobe and delivers personalized outfit recommendations using a custom recommendation engine. Users can manage clothing, build outfits, schedule outfits, and receive AI-powered suggestions tailored to their wardrobe and preferences.
+ClosetIQ is a full-stack AI-powered wardrobe management application built with React Native, Node.js, Express.js, and MongoDB. It helps users digitize their wardrobe, organize clothing items, create custom outfits, and plan their daily style from a single mobile application.
+
+At its core, ClosetIQ features a custom recommendation engine that analyzes wardrobe contents, personal preferences, colors, materials, occasions, seasons, and style compatibility to generate intelligent outfit suggestions. The application also includes secure authentication, cloud-based image storage, wardrobe analytics, and an intuitive outfit planner, providing a personalized and seamless fashion experience.
 
 <a id="features"></a>
 # ✨ Features
