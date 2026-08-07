@@ -169,20 +169,20 @@ ClosetIQ/
 
 <p align="center">
   <img src="screenshots/home.jpeg" width="220"/>
-  <img src="screenshots/closet.png" width="220"/>
+  <img src="screenshots/add.jpeg" width="220"/>
   <img src="screenshots/ai.png" width="220"/>
 </p>
 
 <p align="center">
   <b>Home</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Digital Closet</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>AI Recommendations</b>
+  <b>Add Item</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Digital Closet</b>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="screenshots/outfit-builder.png" width="220"/>
+  <img src="screenshots/outfit-builder.jpeg" width="220"/>
   <img src="screenshots/planner.png" width="220"/>
   <img src="screenshots/profile.png" width="220"/>
 </p>
