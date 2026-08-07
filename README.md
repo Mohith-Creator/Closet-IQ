@@ -17,12 +17,12 @@
 <h3 align="center">📖 Quick Navigation</h3>
 
 <p align="center">
-  <a href="#features">Features</a> •
-  <a href="#architecture">Architecture</a> •
-  <a href="#screenshots">Screenshots</a> •
-  <a href="#api-endpoints">API</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#demo">Demo</a>
+  <a href="#features">✨ Features</a> •
+  <a href="#architecture">🏗️ Architecture</a> •
+  <a href="#screenshots">📸 Screenshots</a> •
+  <a href="#api-endpoints">🌐 API</a> •
+  <a href="#installation">⚙️ Installation</a> •
+  <a href="#demo">🎥 Demo</a>
 </p>
 
 ---
@@ -56,25 +56,25 @@
 
 ------
 
-# 📑 Table of Contents
+## 📑 Table of Contents
 
-- Overview
-- Features
-- Tech Stack
-- Architecture
-- Recommendation Engine
-- Folder Structure
-- Screenshots
-- API Endpoints
-- Database Overview
-- Installation
-- Environment Variables
-- Demo
-- Deployment
-- Roadmap
-- Contributing
-- License
-- Author
+- [🚀 Overview](#overview)
+- [✨ Features](#features)
+- [🛠 Tech Stack](#tech-stack)
+- [🏗️ Architecture](#architecture)
+- [🧠 Recommendation Engine](#recommendation-engine)
+- [📂 Project Structure](#project-structure)
+- [📸 Screenshots](#screenshots)
+- [🌐 REST API](#api-endpoints)
+- [🗄️ Database Overview](#database)
+- [⚙️ Installation](#installation)
+- [🔐 Environment Variables](#environment-variables)
+- [🎥 Demo](#demo)
+- [🚀 Deployment](#deployment)
+- [🗺️ Roadmap](#roadmap)
+- [🤝 Contributing](#contributing)
+- [📄 License](#license)
+- [👨‍💻 Author](#author)
 
 ---
 <a id="overview"></a>
