@@ -170,7 +170,7 @@ ClosetIQ/
 <p align="center">
   <img src="screenshots/home.jpeg" width="220"/>
   <img src="screenshots/add.jpeg" width="220"/>
-  <img src="screenshots/ai.png" width="220"/>
+  <img src="screenshots/closet.jpeg" width="220"/>
 </p>
 
 <p align="center">
@@ -184,7 +184,7 @@ ClosetIQ/
 <p align="center">
   <img src="screenshots/outfit-builder.jpeg" width="220"/>
   <img src="screenshots/planner.png" width="220"/>
-  <img src="screenshots/profile.png" width="220"/>
+  <img src="screenshots/profile.jpeg" width="220"/>
 </p>
 
 <p align="center">
