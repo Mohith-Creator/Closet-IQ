@@ -106,22 +106,13 @@ ClosetIQ is a full-stack React Native application that digitizes your wardrobe a
 <a id="tech-stack"></a>
 # 🛠 Tech Stack
 
-## Frontend
-- React Native (Expo)
-- React Navigation
-- Context API
-- Axios
-- Reanimated
-
-## Backend
-- Node.js
-- Express.js
-- MongoDB + Mongoose
-
-## Services
-- Firebase Authentication
-- Cloudinary
-- JWT
+| Category | Technologies |
+|----------|--------------|
+| 📱 **Frontend** | React Native (Expo) • React Navigation • Context API • Axios • React Native Reanimated |
+| ⚙️ **Backend** | Node.js • Express.js |
+| 🗄️ **Database** | MongoDB • Mongoose |
+| 🔐 **Authentication** | Firebase Authentication • JWT |
+| ☁️ **Cloud Storage** | Cloudinary |
 
 <a id="architecture"></a>
 # 🏗️ Architecture
