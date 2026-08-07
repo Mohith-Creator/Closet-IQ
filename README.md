@@ -168,31 +168,12 @@ ClosetIQ/
 # 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/home.jpeg" width="220"/>
-  <img src="screenshots/add.jpeg" width="220"/>
-  <img src="screenshots/closet.jpeg" width="220"/>
+  <img src="screenshots/home.jpeg" width="180" alt="Home" hspace="8"/>
+  <img src="screenshots/add.jpeg" width="180" alt="Add Item" hspace="8"/>
+  <img src="screenshots/closet.jpeg" width="180" alt="Digital Closet" hspace="8"/>
+  <img src="screenshots/outfit-builder.jpeg" width="180" alt="Outfit Builder" hspace="8"/>
+  <img src="screenshots/profile.jpeg" width="180" alt="Profile" hspace="8"/>
 </p>
-
-<p align="center">
-  <b>Home</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Add Item</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Digital Closet</b>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="screenshots/outfit-builder.jpeg" width="220"/>
-  <img src="screenshots/planner.png" width="220"/>
-  <img src="screenshots/profile.jpeg" width="220"/>
-</p>
-
-<p align="center">
-  <b>Outfit Builder</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Planner</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Profile</b>
-</p>
-
 
 <a id="api-endpoints"></a>
 # 🌐 REST API
