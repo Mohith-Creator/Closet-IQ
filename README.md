@@ -211,15 +211,22 @@ ClosetIQ/
 <a id="database"></a>
 # 🗄️ Database Overview
 
-- User
-- Item
-- Outfit
-- Planner
+ClosetIQ uses **MongoDB** with **Mongoose** to store user information, wardrobe items, outfits, and outfit plans. The database is designed to maintain efficient relationships between collections while supporting personalized recommendations and planning features.
 
-Relationships:
-- One User → Many Items
-- One User → Many Outfits
-- One User → Many Planner Entries
+| Collection | Description |
+|------------|-------------|
+| 👤 **User** | Stores user profile, preferences, measurements, and authentication details. |
+| 👕 **Item** | Stores wardrobe items, clothing metadata, images, colors, materials, seasons, and occasions. |
+| 🎨 **Outfit** | Stores user-created and AI-generated outfit combinations. |
+| 📅 **Planner** | Stores scheduled outfits, dates, and planner notes. |
+
+### Relationships
+
+- 👤 **One User** → **Many Items**
+- 👤 **One User** → **Many Outfits**
+- 👤 **One User** → **Many Planner Entries**
+- 👕 **Many Items** → **One Outfit**
+- 🎨 **One Outfit** → **Many Planner Entries**
 
 <a id="installation"></a>
 # ⚙️ Installation
