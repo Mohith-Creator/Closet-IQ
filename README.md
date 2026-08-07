@@ -168,11 +168,17 @@ ClosetIQ/
 # 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/home.jpeg" width="180" alt="Home" hspace="8"/>
-  <img src="screenshots/add.jpeg" width="180" alt="Add Item" hspace="8"/>
-  <img src="screenshots/closet.jpeg" width="180" alt="Digital Closet" hspace="8"/>
-  <img src="screenshots/outfit-builder.jpeg" width="180" alt="Outfit Builder" hspace="8"/>
-  <img src="screenshots/profile.jpeg" width="180" alt="Profile" hspace="8"/>
+  <img src="screenshots/home.jpeg" width="220" alt="Home" hspace="8"/>
+  <img src="screenshots/add.jpeg" width="220" alt="Add Item" hspace="8"/>
+  <img src="screenshots/closet.jpeg" width="220" alt="Digital Closet" hspace="8"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="screenshots/outfit-builder.jpeg" width="220" alt="Outfit Builder" hspace="8"/>
+  <img src="screenshots/saved-outfits.jpeg" width="220" alt="Saved Outfits" hspace="8"/>
+  <img src="screenshots/profile.jpeg" width="220" alt="Profile" hspace="8"/>
 </p>
 
 <a id="api-endpoints"></a>
