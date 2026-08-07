@@ -17,12 +17,12 @@
 <h3 align="center">📖 Quick Navigation</h3>
 
 <p align="center">
-  <a href="#-features">✨ Features</a> •
-  <a href="#-screenshots">📱 Screenshots</a> •
-  <a href="#-Architecture">🏗️ Architecture</a> •
-  <a href="#-installation">🚀 Installation</a> •
-  <a href="#-REST API">🌐 API</a> •
-  <a href="#-demo">🎥 Demo</a>
+  <a href="#features">Features</a> •
+  <a href="#architecture">Architecture</a> •
+  <a href="#screenshots">Screenshots</a> •
+  <a href="#api-endpoints">API</a> •
+  <a href="#installation">Installation</a> •
+  <a href="#demo">Demo</a>
 </p>
 
 ---
@@ -77,11 +77,12 @@
 - Author
 
 ---
-
+<a id="overview"></a>
 # 🚀 Overview
 
 ClosetIQ is a full-stack React Native application that digitizes your wardrobe and delivers personalized outfit recommendations using a custom recommendation engine. Users can manage clothing, build outfits, schedule outfits, and receive AI-powered suggestions tailored to their wardrobe and preferences.
 
+<a id="features"></a>
 # ✨ Features
 
 - 👕 Digital Closet
@@ -94,6 +95,7 @@ ClosetIQ is a full-stack React Native application that digitizes your wardrobe a
 - 👤 Personalized Onboarding
 - 📱 Cross-platform mobile app
 
+<a id="tech-stack"></a>
 # 🛠 Tech Stack
 
 ## Frontend
@@ -113,6 +115,7 @@ ClosetIQ is a full-stack React Native application that digitizes your wardrobe a
 - Cloudinary
 - JWT
 
+<a id="architecture"></a>
 # 🏗️ Architecture
 
 ```text
@@ -131,6 +134,7 @@ Express Server
  └── Cloudinary
 ```
 
+<a id="recommendation-engine"></a>
 # 🧠 Recommendation Engine
 
 ```text
@@ -157,6 +161,7 @@ Explanation Generator
 Recommendations
 ```
 
+<a id="project-structure"></a>
 # 📂 Project Structure
 
 ```text
@@ -173,6 +178,7 @@ ClosetIQ/
     └── recommendationEngine/
 ```
 
+<a id="screenshots"></a>
 # 📸 Screenshots
 
 Create a `screenshots/` folder:
@@ -196,6 +202,7 @@ screenshots/
 |---|---|
 | ![](screenshots/closet.png) | ![](screenshots/ai-suggestions.png) |
 
+<a id="api-endpoints"></a>
 # 🌐 REST API
 
 ## Authentication
@@ -236,6 +243,7 @@ screenshots/
 |GET|/api/planner|
 |POST|/api/planner|
 
+<a id="database"></a>
 # 🗄️ Database Overview
 
 - User
@@ -248,6 +256,7 @@ Relationships:
 - One User → Many Outfits
 - One User → Many Planner Entries
 
+<a id="installation"></a>
 # ⚙️ Installation
 
 ```bash
@@ -271,6 +280,7 @@ npm install
 npm run dev
 ```
 
+<a id="environment-variables"></a>
 # 🔐 Environment Variables
 
 ```env
@@ -286,6 +296,7 @@ FIREBASE_PRIVATE_KEY=
 GEMINI_API_KEY=
 ```
 
+<a id="demo"></a>
 # 🎥 Demo
 
 Add your demo video:
@@ -294,6 +305,7 @@ Add your demo video:
 https://youtu.be/YOUR_VIDEO_ID
 ```
 
+<a id="deployment"></a>
 # 🚀 Deployment
 
 - Mobile App: Expo EAS
@@ -301,6 +313,7 @@ https://youtu.be/YOUR_VIDEO_ID
 - Database: MongoDB Atlas
 - Images: Cloudinary
 
+<a id="roadmap"></a>
 # 🗺️ Roadmap
 
 - Weather integration
@@ -310,14 +323,17 @@ https://youtu.be/YOUR_VIDEO_ID
 - Shopping recommendations
 - Social sharing
 
+<a id="contributing"></a>
 # 🤝 Contributing
 
 Fork the repository, create a feature branch, commit your changes, and open a pull request.
 
+<a id="license"></a>
 # 📄 License
 
 MIT License.
 
+<a id="author"></a>
 # 👨‍💻 Author
 
 **Mohith Reddy**
