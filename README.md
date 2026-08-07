@@ -85,20 +85,23 @@ ClosetIQ is a full-stack React Native application that digitizes your wardrobe a
 <a id="features"></a>
 # ✨ Features
 
-<p align="center">
-  👔 <strong>Digital Closet</strong> &nbsp; • &nbsp;
-  🤖 <strong>AI Recommendations</strong> &nbsp; • &nbsp;
-  🎨 <strong>Outfit Builder</strong> &nbsp; • &nbsp;
-  📅 <strong>Planner</strong>
-</p>
+> 👔 **Digital Closet** — Organize and categorize your wardrobe with rich clothing metadata.
 
-<p align="center">
-  ☁️ <strong>Cloudinary</strong> &nbsp; • &nbsp;
-  🔐 <strong>Firebase Auth</strong> &nbsp; • &nbsp;
-  📊 <strong>Analytics</strong> &nbsp; • &nbsp;
-  👤 <strong>Personalization</strong> &nbsp; • &nbsp;
-  📱 <strong>Cross Platform</strong>
-</p>
+> 🤖 **AI Outfit Recommendations** — Get personalized outfit suggestions based on your wardrobe.
+
+> 🎨 **Interactive Outfit Builder** — Create, preview, and save custom outfit combinations from your wardrobe.
+
+> 📅 **Smart Outfit Planner** — Plan outfits for upcoming events using an integrated calendar.
+
+> ☁️ **Cloud Image Management** — Store and retrieve clothing images securely with Cloudinary.
+
+> 🔐 **Secure Authentication** — Firebase Authentication with protected REST APIs.
+
+> 📊 **Wardrobe Analytics** — Visualize wardrobe insights and clothing statistics.
+
+> 👤 **Personalized Experience** — Tailored recommendations powered by your profile and style preferences.
+
+> 📱 **Cross-Platform** — Built with React Native (Expo) for Android and iOS.
 
 <a id="tech-stack"></a>
 # 🛠 Tech Stack
