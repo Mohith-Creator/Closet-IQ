@@ -180,26 +180,32 @@ ClosetIQ/
 <a id="screenshots"></a>
 # 📸 Screenshots
 
-Create a `screenshots/` folder:
+<p align="center">
+  <img src="screenshots/home.png" width="220"/>
+  <img src="screenshots/closet.png" width="220"/>
+  <img src="screenshots/ai.png" width="220"/>
+</p>
 
-```text
-screenshots/
-├── splash.png
-├── login.png
-├── home.png
-├── closet.png
-├── ai-suggestions.png
-├── planner.png
-├── profile.png
-```
+<p align="center">
+  <b>Home</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Digital Closet</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>AI Recommendations</b>
+</p>
 
-| Splash | Home |
-|---|---|
-| ![](screenshots/splash.png) | ![](screenshots/home.png) |
+<br>
 
-| Closet | AI Suggestions |
-|---|---|
-| ![](screenshots/closet.png) | ![](screenshots/ai-suggestions.png) |
+<p align="center">
+  <img src="screenshots/outfit-builder.png" width="220"/>
+  <img src="screenshots/planner.png" width="220"/>
+  <img src="screenshots/profile.png" width="220"/>
+</p>
+
+<p align="center">
+  <b>Outfit Builder</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Planner</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Profile</b>
+</p>
+
 
 <a id="api-endpoints"></a>
 # 🌐 REST API
