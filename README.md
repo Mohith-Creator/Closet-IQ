@@ -19,9 +19,9 @@
 <p align="center">
   <a href="#-features">✨ Features</a> •
   <a href="#-screenshots">📱 Screenshots</a> •
-  <a href="#-architecture">🏗️ Architecture</a> •
+  <a href="#-Architecture">🏗️ Architecture</a> •
   <a href="#-installation">🚀 Installation</a> •
-  <a href="#-api-endpoints">🌐 API</a> •
+  <a href="#-REST API">🌐 API</a> •
   <a href="#-demo">🎥 Demo</a>
 </p>
 
