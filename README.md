@@ -11,10 +11,11 @@
 </p>
 
 <p align="center">
-  <a href="https://expo.dev/accounts/mohith1532/projects/ClosetIQ/builds/c30555e4-8146-403f-9344-a38d26f3a97b">
+  <a href="https://expo.dev/accounts/mohith1532/projects/ClosetIQ/builds/48a5917f-55b3-4d8e-bed8-a6934c07f3fe">
     <img src="https://img.shields.io/badge/📱%20Download%20APK-ClosetIQ-2ea44f?style=for-the-badge" alt="Download ClosetIQ APK"/>
   </a>
 </p>
+
 
 ---
 
