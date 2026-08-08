@@ -562,10 +562,8 @@ Create a Pull Request from your feature branch to the `main` branch and describe
 <a id="license"></a>
 # 📄 License
 
-ClosetIQ is licensed under the **MIT License**.
-
-See the `LICENSE` file for more information.
-
+ClosetIQ is licensed under the **MIT License**.  
+See the [`LICENSE`](LICENSE) file for more information.
 ---
 
 <a id="author"></a>
