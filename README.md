@@ -56,7 +56,7 @@
   - 🔐 [Environment Variables](#environment-variables)
 - 🎥 [Demo](#demo)
 - 🚀 [Deployment](#deployment)
-- 🗺️ [Roadmap](#roadmap)
+- 🗺️ [Future Work](#future-work)
 - 🤝 [Contributing](#contributing)
 - 📄 [License](#license)
 - 👨‍💻 [Author](#author)
@@ -500,6 +500,7 @@ CLOUDINARY_API_SECRET=
 
 ---
 
+<a id="future-work"></a>
 # 🔮 Future Work
 
 The following improvements are planned for future versions of ClosetIQ:
@@ -513,6 +514,7 @@ The following improvements are planned for future versions of ClosetIQ:
 
 ---
 
+<a id="contributing"></a>
 # 🤝 Contributing
 
 Contributions are welcome and appreciated!
@@ -557,6 +559,7 @@ Create a Pull Request from your feature branch to the `main` branch and describe
 
 ---
 
+<a id="license"></a>
 # 📄 License
 
 ClosetIQ is licensed under the **MIT License**.
@@ -565,6 +568,7 @@ See the `LICENSE` file for more information.
 
 ---
 
+<a id="author"></a>
 # 👨‍💻 Author
 
 ### Mohith Reddy
@@ -574,7 +578,7 @@ See the `LICENSE` file for more information.
 Passionate about building modern full-stack and mobile applications with **React Native, Node.js, Express.js, MongoDB, and AI-powered technologies**.
 
 <p align="left">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/Mohith-Creator">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
