@@ -54,7 +54,6 @@
   - 🗄️ [Database Overview](#database)
 - ⚙️ [Installation](#installation)
   - 🔐 [Environment Variables](#environment-variables)
-- 🎥 [Demo](#demo)
 - 🚀 [Deployment](#deployment)
 - 🗺️ [Future Work](#future-work)
 - 🤝 [Contributing](#contributing)
@@ -412,7 +411,7 @@ GEMINI_API_KEY=
 
 ---
 
-<a id="demo"></a>
+<!-- <a id="demo"></a>
 # 🎥 Demo
 
 Experience ClosetIQ in action:
@@ -423,7 +422,7 @@ Experience ClosetIQ in action:
   </a>
 </p>
 
----
+--- -->
 
 <a id="deployment"></a>
 # 🚀 Deployment
@@ -561,7 +560,7 @@ Create a Pull Request from your feature branch to the `main` branch and describe
 
 <a id="license"></a>
 # 📄 License
-ClosetIQ is licensed under the **MIT License**.
+ClosetIQ is licensed under the **MIT License** 
 see the[`LICENSE`](LICENSE) file for more information.
 ---
 
